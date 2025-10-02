@@ -83,7 +83,7 @@ Note that a `git fetch upstream` followed by a `git merge upstream/some_branch` 
    </div>
 
 1. **If you have completed an assigned issue**, the final step is to submit a pull request to merge your feature branch into the original `upstream` repository's `main` branch. This can be done using GitHub's interface.
-1. Shake your moneymaker, you're an OSS contributor!
+1. Shake your moneymaker, you're an OSS contributor!!!
 
 </div>
 
